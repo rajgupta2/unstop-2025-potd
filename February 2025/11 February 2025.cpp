@@ -41,4 +41,4 @@ int main() {
     long long result = maximum_product_of_sums(arr);
     std::cout << result << std::endl;
     return 0;
-}ECHO is on.
+}
